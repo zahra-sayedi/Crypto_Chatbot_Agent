@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-11-09T02:17:38.543225",
+    "query_text": "قیمت اتریوم چنده؟",
+    "decision": "price (fa)",
+    "response_text_snippet": "قیمت‌های فعلی برای ETH (منبع: Wallex.ir در 2025-11-09 02:17:38):\n• TMN (ETHTMN): 367525334\n• USDT (ETHUSDT): 3400.2"
+  },
+  {
+    "timestamp": "2025-11-09T02:18:22.152759",
+    "query_text": "what is the price of DOGE in this moment?",
+    "decision": "price (en)",
+    "response_text_snippet": "Current prices for DOGE (Source: Wallex.ir at 2025-11-09 02:18:22):\n• TMN (DOGETMN): 18942\n• USDT (DOGEUSDT): 0.176"
+  },
+  {
+    "timestamp": "2025-11-09T02:18:50.894609",
+    "query_text": "قیمت بیت کوین را بهم میگی؟",
+    "decision": "price (fa)",
+    "response_text_snippet": "قیمت‌های فعلی برای BTC (منبع: Wallex.ir در 2025-11-09 02:18:50):\n• TMN (BTCTMN): 11059999017\n• USDT (BTCUSDT): 102449.92"
+  },
+  {
+    "timestamp": "2025-11-09T02:20:36.394825",
+    "query_text": "what is bitcoin?",
+    "decision": "research (en)",
+    "response_text_snippet": "Bitcoin is a decentralized digital currency that uses blockchain technology to enable peer-to-peer transactions without the need for a central authority.  It was introduced in 2008 by Satoshi Nakamoto. Bitcoin operates with no central authority or banks; managing transactions and issuing bitcoins is carried out collectively by the network. It is also open-source, meaning its design is public and anyone can participate.  \n\n\nSources:\n• Bitcoin (https://en.wikipedia.org/wiki/Bitcoin)\n• What Is Bitcoin? How to Buy, Mine, and Use It (https://www.investopedia.com/terms/b/bitcoin.asp)\n• Bitcoin - Open source P2P money (https://bitcoin.org/)"
+  },
+  {
+    "timestamp": "2025-11-09T02:22:40.899741",
+    "query_text": "بلاک‌چین چگونه امنیت تراکنش‌ها را تضمین می‌کند؟",
+    "decision": "research (fa)",
+    "response_text_snippet": "امنیت تراکنش‌ها در بلاکچین از طریق سازوکارهایی مثل رمزنگاری پیشرفته و مدل‌های ریاضی تضمین می‌شود. هر تراکنش به تاریخ، ساعت، شرکت‌کنندگان و هش بلاک قبلی متصل است که تغییرناپذیرند. \n\n\nمنابع:\n• امنیت بلاکچین چطور تامین می شود؟ | (https://wallex.ir/blog/%D8%A7%D9%85%D9%86%DB%8C%D8%AA-%D8%A8%D9%84%D8%A7%DA%A9%DA%86%DB%8C%D9%86/)\n• چه عواملی باعث امنیت بلاکچین (Blockchain) می‌شود؟ (https://tetherland.com/blog/blockchain-security-factors/)\n• امنیت بلاک چین چقدر است؟ علت امنیت بالای بلاکچین چیست؟ (https://bit24.cash/blog/blockchain-security/)"
+  },
+  {
+    "timestamp": "2025-11-09T02:27:37.484326",
+    "query_text": "What factors influence the price of Ethereum?",
+    "decision": "research (en)",
+    "response_text_snippet": "Supply and demand, network activity, protocol changes, staking, and investor sentiment. \n\n\n\n\nSources:\n• Ethereum price: How does it work & what affects ETH value (https://coinmotion.com/ethereum-price/)\n• ETH Price in USD Explained: What Drives Ethereum's ... (https://www.kucoin.com/blog/en-eth-price-in-usd-explained-what-drives-ethereum-s-value-and-how-it-impacts-the-market)\n• Ether (ETH) Price: Factors That Influence Its Value (https://www.osl.com/hk-en/academy/article/ether-eth-price-factors-that-influence-its-value)"
+  },
+  {
+    "timestamp": "2025-11-09T02:31:02.770132",
+    "query_text": "تفاوت بین سرمایه‌گذاری کوتاه‌مدت و بلندمدت در کریپتو چیست؟",
+    "decision": "research (fa)",
+    "response_text_snippet": "سرمایه‌گذاری **کوتاه مدت** (ترید) شامل خرید و فروش رمزارزها در بازه‌های زمانی کوتاه، از چند ثانیه تا چند ماه است، درحالی که سرمایه‌گذاری **بلندمدت** شامل خرید و نگهداری رمزارزها برای چندین سال با هدف بهره‌مندی از افزایش قیمت طولانی مدت است.  \n\n\nمنابع:\n• بهترین رویکرد برای سرمایه گذاری ارز دیجیتال؛ بلندمدت یا ... (https://binvest.finance/crypto-long-term-investment-versus-short-term-trade/)\n• معاملات کوتاه‌مدت و بلند‌مدت (https://tetherland.com/blog/trade-or-investment/)\n• سرمایه‌گذاری بلندمدت یا ترید کوتاه‌مدت رمزارزها: کدام مناسب‌تر ... (https://peivast.com/p/148226)"
+  },
+  {
+    "timestamp": "2025-11-09T02:32:34.086579",
+    "query_text": "What is the difference between a cold wallet and a hot wallet?",
+    "decision": "research (en)",
+    "response_text_snippet": "Hot wallets are internet-connected and allow for quick cryptocurrency transactions, while cold wallets are offline storage devices that offer greater security.  \n\n\nSources:\n• Hot vs. Cold Cryptocurrency Wallets: Key Differences ... (https://www.investopedia.com/hot-wallet-vs-cold-wallet-7098461)\n• Hot vs cold crypto wallet: What's the difference? (https://www.coinbase.com/learn/wallet/hot-vs-cold-crypto-wallet-what-is-the-difference)\n• Cold Wallet vs. Hot Wallet: What's the Difference? (https://www.bitgo.com/resources/blog/cold-wallet-vs-hot-wallet/)"
+  },
+  {
+    "timestamp": "2025-11-09T02:33:43.784523",
+    "query_text": "قیمت Solana چنده ؟",
+    "decision": "price (fa)",
+    "response_text_snippet": "قیمت‌های فعلی برای SOL (منبع: Wallex.ir در 2025-11-09 02:33:43):\n• TMN (SOLTMN): 17087595\n• USDT (SOLUSDT): 158.4"
+  },
+  {
+    "timestamp": "2025-11-09T02:37:08.773563",
+    "query_text": "مفهوم DeFi چیست و چه تفاوتی با سیستم‌های مالی سنتی دارد؟",
+    "decision": "research (fa)",
+    "response_text_snippet": "DeFi مخفف Decentralized Finance است یعنی امور مالی غیرمتمرکز. در این سیستم خدمات مالی مانند وام‌دهی، دریافت وام، معامله دارایی‌های دیجیتال و بیمه به صورت خودکار و شفاف توسط قراردادهای هوشمند روی بلاک چین انجام می‌شود بدون واسطه‌ها مثل بانک‌ها. \n\nدر مقابل سیستم‌های مالی سنتی (TradFi) تحت نظارت دولت ها و موسسات متمرکز هستند و تراکنش ها توسط آنها پردازش می شوند.\n\n\nمنابع:\n• دیفای (DeFi) چیست؟ راهنمای کامل + کاربرد DeFi (https://tetherland.com/blog/what-is-defi/)\n• دیفای چیست؟ DeFi یا امور مالی غیرمتمرکز به زبان ساده (https://arzdigital.com/blog/what-is-defi/)\n• امور مالی سنتی (TradFi) چیست؟ مقایسه TradFi با CeFi و DeFi (https://mihanblockchain.com/what-is-tradfi-vs-defi-vs-cefi/)"
+  }
+]
