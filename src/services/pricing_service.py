@@ -50,8 +50,6 @@ def initialize_coin_map() -> bool:
 
         COIN_MAP = temp_map
         logger.info(f"Successfully loaded {len(COIN_MAP)} coin names/symbols into the map.")
-        print("Initializing COIN_MAP...")
-        print(COIN_MAP)
         return True
     except requests.exceptions.RequestException as e:
         logger.error(f"Failed to initialize coin map from Wallex API: {e}")

@@ -13,7 +13,6 @@ def extract_symbol(text: str) -> str | None:
     This version normalizes both the input text AND the map keys for matching.
     """
     current_coin_map = pricing_service.COIN_MAP
-    print(current_coin_map)
     text_lower = text.lower()
     text_lower = text_lower.replace(' ', '').replace('‌', '')
 

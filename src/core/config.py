@@ -17,7 +17,7 @@ if not SERPAPI_KEY:
     print("Warning: SERPAPI_KEY not found. Web search will fail.", file=sys.stderr)
 
 WALLEX_API_URL = "https://api.wallex.ir/hector/web/v1/markets"
-OLLAMA_HOST = "http://127.0.0.1:11434"
+OLLAMA_HOST = "ollama.dadmatech.ir"
 
 # --- LLM Models ---
 LLM_MODEL1 = "gemma2:2b"  # For classification
