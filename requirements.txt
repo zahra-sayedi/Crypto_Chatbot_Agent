@@ -1,0 +1,7 @@
+python-dotenv
+requests
+beautifulsoup4
+serpapi
+ollama
+python-telegram-bot
+python-telegram-bot[ext]
