@@ -99,7 +99,7 @@ Create a file named .env in the root of the project and add your API keys:
 # Get this from @BotFather on Telegram
 TELEGRAM_BOT_TOKEN="YOUR_TELEGRAM_BOT_TOKEN_HERE"
 
-# Get this from [https://serpapi.com/](https://serpapi.com/)
+# Get this from (https://serpapi.com/)
 SERPAPI_KEY="YOUR_SERPAPI_API_KEY_HERE"
   ```
 
